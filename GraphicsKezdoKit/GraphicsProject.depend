@@ -1,0 +1,268 @@
+# depslib dependency file v1.0
+1363433574 source:c:\users\linzenbold Ádám\desktop\graphicskezdokit\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1363433554 c:\users\linzenbold Ádám\desktop\graphicskezdokit\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1488256928 c:\users\linzenbold Ádám\desktop\graphicskezdokit\include\graphics.hpp
+	<string>
+
+1496300740 c:\users\linzenbold Ádám\desktop\graphicskezdokit\widgets.hpp
+	"graphics.hpp"
+
+1517141101 source:c:\users\linzenbold Ádám\desktop\graphicskezdokit\main.cpp
+	"graphics.hpp"
+	"statictext.hpp"
+	"textedit.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	"pushbutton.hpp"
+	"kivalaszto.hpp"
+	"window.hpp"
+	<vector>
+	<fstream>
+	<iostream>
+
+1516922457 c:\users\linzenbold Ádám\desktop\graphicskezdokit\statictext.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<string>
+
+1496300740 c:\users\linzenbold Ádám\desktop\graphicskezdokit\textedit.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<string>
+
+1516919176 c:\users\linzenbold Ádám\desktop\graphicskezdokit\pushbutton.hpp
+	<functional>
+	"widgets.hpp"
+
+1517140775 c:\users\linzenbold Ádám\desktop\graphicskezdokit\window.hpp
+	<vector>
+	"widgets.hpp"
+
+1516992094 source:c:\users\linzenbold Ádám\desktop\graphicskezdokit\pushbutton.cpp
+	"PushButton.hpp"
+	<iostream>
+
+1496300740 source:c:\users\linzenbold Ádám\desktop\graphicskezdokit\statictext.cpp
+	"statictext.hpp"
+	"graphics.hpp"
+
+1496300740 source:c:\users\linzenbold Ádám\desktop\graphicskezdokit\textedit.cpp
+	<sstream>
+	"textedit.hpp"
+	"graphics.hpp"
+
+1496300740 source:c:\users\linzenbold Ádám\desktop\graphicskezdokit\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1517140778 source:c:\users\linzenbold Ádám\desktop\graphicskezdokit\window.cpp
+	"window.hpp"
+
+1516925111 source:c:\users\linzenbold Ádám\desktop\graphicskezdokit\kivalaszto.cpp
+	"kivalaszto.hpp"
+	"graphics.hpp"
+	<string>
+	<sstream>
+	<iostream>
+
+1516924588 c:\users\linzenbold Ádám\desktop\graphicskezdokit\kivalaszto.hpp
+	<vector>
+	<string>
+	"graphics.hpp"
+	"widgets.hpp"
+
+1496396868 source:c:\users\linzenbold Ádám\desktop\graphicskezdokit\szamlalo.cpp
+	<iostream>
+	<sstream>
+	"szamlalo.hpp"
+	"graphics.hpp"
+
+1496396805 c:\users\linzenbold Ádám\desktop\graphicskezdokit\szamlalo.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<string>
+
+1363437174 source:c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1363437154 c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1488260528 c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\include\graphics.hpp
+	<string>
+
+1496304340 c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\widgets.hpp
+	"graphics.hpp"
+
+1516928711 source:c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\kivalaszto.cpp
+	"kivalaszto.hpp"
+	"graphics.hpp"
+	<string>
+	<sstream>
+	<iostream>
+
+1516928188 c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\kivalaszto.hpp
+	<vector>
+	<string>
+	"graphics.hpp"
+	"widgets.hpp"
+
+1517144701 source:c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\main.cpp
+	"graphics.hpp"
+	"statictext.hpp"
+	"textedit.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	"pushbutton.hpp"
+	"kivalaszto.hpp"
+	"window.hpp"
+	<vector>
+	<fstream>
+	<iostream>
+
+1516926057 c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\statictext.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<string>
+
+1496304340 c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\textedit.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<string>
+
+1516922776 c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\pushbutton.hpp
+	<functional>
+	"widgets.hpp"
+
+1517144375 c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\window.hpp
+	<vector>
+	"widgets.hpp"
+
+1516995694 source:c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\pushbutton.cpp
+	"PushButton.hpp"
+	<iostream>
+
+1496304340 source:c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\statictext.cpp
+	"statictext.hpp"
+	"graphics.hpp"
+
+1496400468 source:c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\szamlalo.cpp
+	<iostream>
+	<sstream>
+	"szamlalo.hpp"
+	"graphics.hpp"
+
+1496400405 c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\szamlalo.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<string>
+
+1496304340 source:c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\textedit.cpp
+	<sstream>
+	"textedit.hpp"
+	"graphics.hpp"
+
+1496304340 source:c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1517144378 source:c:\users\linzenbold Ádám\desktop\informatika\grafikus\graphicskezdokit\window.cpp
+	"window.hpp"
+
+1363437174 source:d:\programozas\bevprog_2\graphicskezdokit\examplecheckbox.cpp
+	"examplecheckbox.hpp"
+	"graphics.hpp"
+
+1363437154 d:\programozas\bevprog_2\graphicskezdokit\examplecheckbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1488260528 d:\programozas\bevprog_2\graphicskezdokit\include\graphics.hpp
+	<string>
+
+1496304340 d:\programozas\bevprog_2\graphicskezdokit\widgets.hpp
+	"graphics.hpp"
+
+1516928711 source:d:\programozas\bevprog_2\graphicskezdokit\kivalaszto.cpp
+	"kivalaszto.hpp"
+	"graphics.hpp"
+	<string>
+	<sstream>
+	<iostream>
+
+1516928188 d:\programozas\bevprog_2\graphicskezdokit\kivalaszto.hpp
+	<vector>
+	<string>
+	"graphics.hpp"
+	"widgets.hpp"
+
+1517144701 source:d:\programozas\bevprog_2\graphicskezdokit\main.cpp
+	"graphics.hpp"
+	"statictext.hpp"
+	"textedit.hpp"
+	"widgets.hpp"
+	"examplecheckbox.hpp"
+	"pushbutton.hpp"
+	"kivalaszto.hpp"
+	"window.hpp"
+	<vector>
+	<fstream>
+	<iostream>
+
+1516926057 d:\programozas\bevprog_2\graphicskezdokit\statictext.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<string>
+
+1496304340 d:\programozas\bevprog_2\graphicskezdokit\textedit.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<string>
+
+1516922776 d:\programozas\bevprog_2\graphicskezdokit\pushbutton.hpp
+	<functional>
+	"widgets.hpp"
+
+1517144375 d:\programozas\bevprog_2\graphicskezdokit\window.hpp
+	<vector>
+	"widgets.hpp"
+
+1516995694 source:d:\programozas\bevprog_2\graphicskezdokit\pushbutton.cpp
+	"PushButton.hpp"
+	<iostream>
+
+1496304340 source:d:\programozas\bevprog_2\graphicskezdokit\statictext.cpp
+	"statictext.hpp"
+	"graphics.hpp"
+
+1496400468 source:d:\programozas\bevprog_2\graphicskezdokit\szamlalo.cpp
+	<iostream>
+	<sstream>
+	"szamlalo.hpp"
+	"graphics.hpp"
+
+1496400405 d:\programozas\bevprog_2\graphicskezdokit\szamlalo.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<string>
+
+1496304340 source:d:\programozas\bevprog_2\graphicskezdokit\textedit.cpp
+	<sstream>
+	"textedit.hpp"
+	"graphics.hpp"
+
+1496304340 source:d:\programozas\bevprog_2\graphicskezdokit\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1517144378 source:d:\programozas\bevprog_2\graphicskezdokit\window.cpp
+	"window.hpp"
+
